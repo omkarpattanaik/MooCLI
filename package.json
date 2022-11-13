@@ -1,0 +1,22 @@
+{
+  "name": "mycli",
+  "version": "1.0.0",
+  "description": "moo is a simple CLI for creating Vue Components",
+  "bin": {
+    "moo": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "cli"
+  ],
+  "author": "Omkar Pattanaik",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.1.4"
+  }
+}
