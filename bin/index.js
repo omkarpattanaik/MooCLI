@@ -15,7 +15,7 @@ defineComponent({
  created() {
    //do something
  },data(){
-    return {//do something} 
+    return {}//do something 
  }
 })`
   
