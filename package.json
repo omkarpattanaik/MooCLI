@@ -1,5 +1,5 @@
 {
-  "name": "mycli",
+  "name": "moo CLI",
   "version": "1.0.0",
   "description": "moo is a simple CLI for creating Vue Components",
   "bin": {
