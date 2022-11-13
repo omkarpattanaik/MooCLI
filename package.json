@@ -1,7 +1,7 @@
 {
-  "name": "moo CLI",
+  "name": "moo/CLI",
   "version": "1.0.0",
-  "description": "moo is a simple CLI for creating Vue Components",
+  "description": "moo is a simple CLI for creating Vue Components and many more",
   "bin": {
     "moo": "./bin/index.js"
   },
